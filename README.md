@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="DPL.png" width="250"/>
+  <img src="https://github.com/ThatError404/DPL/raw/master/DPL.png" width="250"/>
 </p>
 <h2 align="center" width="200"><b>Discord Programming Language</b></h2>
 
