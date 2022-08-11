@@ -1,6 +1,9 @@
-<img src="DPL.png" width="200"/>
+<p align="center">
+  <img src="DPL.png" width="400"/>
+</p>
+<h2 align="center" width="200"><b>Discord Programming Language</b></h2>
 
-# Discord Programming Language
-Just an easier way to make a discord bot.
 
-# It's not complete yet
+<p align="center">Just an easier way to make a discord bot.</p>
+
+<h2 align="center" width="200">It's not complete yet</h2>
