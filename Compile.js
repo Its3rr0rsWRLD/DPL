@@ -209,6 +209,8 @@ if (argv[2] == "add") {
                     }
                 }
             // End of Compiler
+            
+            fs.unlinkSync("temp.json");
 
             print("\nCompiling Complete!\n");
             }
