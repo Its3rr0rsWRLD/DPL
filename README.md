@@ -8,7 +8,7 @@
 
 <p align="center">Just an easier way to make a discord bot.</p>
 
-<h2 align="center" width="200">It's not complete yet</h2>
+<h2 align="center" width="200">It's not complete yet (Adding Installer Soon!)</h2>
 
 
 <h3 align="center" width="200">DPL Functions</h3>
