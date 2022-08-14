@@ -8,10 +8,43 @@
 
 <p align="center">Just an easier way to make a discord bot.</p>
 
-<h2 align="center" width="200">It's not complete yet (Adding Installer Soon!)</h2>
+<h2 align="center">Runover</h2>
 
+### What is the best way to use DPL?
 
-<h3 align="center" width="200">DPL Functions</h3>
+The best way to use DPL is to use nodejs and put `Compile.js` in the root of your project.
+
+#### Why not use the installer?
+
+The installer is a bit of a pain to use and it's not really necessary. It's kind of broken when using it anywhere but in `C:\Users\YourUsername`
+
+#### Where does it put the compiled file?
+The file will be put in the same directory as the `Compile.js` file and/or the location of the current directory when using command prompt.
+
+#### Does this work on MacOS/Linux?
+No, it doesn't work on MacOS/Linux. Working on it, but still fixing issues with DPL.
+
+<h2 align="center">How to use DPL</h2>
+
+## Compile
+
+```cmd
+node Compile.js [file]
+```
+
+This is if you don't use the installer.
+
+```cmd
+dpl [file]
+```
+
+This is using the installer.
+
+If you want to use the debugger, you can use the `debug` command.
+
+Ex: `dpl [file] -debug` or `node Compile.js [file] -debug`
+
+<h2 align="center">DPL Functions</h2>
 
 ------
 
