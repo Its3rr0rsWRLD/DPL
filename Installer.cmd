@@ -1,4 +1,2 @@
-Set USERNAME=%USERNAME%
-Set DPL=%~dp0DPL.js%
-echo %DPL% > %USERNAME%\dpl.js
-echo %DPL% > C:\Windows\System32
+mkdir "C:\Program Files\DPL"
+move DPL.exe "C:\Program Files\DPL"
